@@ -1,0 +1,36 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+fifth commit is cherry-pick to master branch
+sixth commit is revert
+
+
+
+
+
+=======
+fifth commit for cherry-pick to master
+sixth commit for revert`
+>>>>>>> b56b16d (fifth commit for cherry-pick)
+
+
+
+adding two additional commits
+<<<<<<< HEAD
+second additional commit is added.
+
+
+
+
+
+
+=======
+adding two additional commits
+<<<<<<< HEAD
+second additional commit is added.
+>>>>>>> b3992e8044aa11e3463d99434fcb3c80391d0973
+=======
+
+>>>>>>> d9cc2c9 (First additional commit)
+second commit is added in dev branch !
+This is the dev file present in dev branch !
