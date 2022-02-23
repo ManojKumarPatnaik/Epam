@@ -1,0 +1,38 @@
+package com.epam.pmt.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.epam.pmt.entity.MasterUser;
+
+@Controller
+public class PmtAppController {
+	
+	@GetMapping("/")
+	public String home() {
+		return "welcome";
+	}
+	
+
+//	@GetMapping("/masterUserRegister")
+//	public String registration(@ModelAttribute("masterUser") MasterUser masterUser) {
+//
+//		return "register";
+//	}
+//
+//	@PostMapping("/masterUserRegister")
+//	public ModelAndView registred(@ModelAttribute("masterUser") MasterUser masterUser) {
+//		ModelAndView modelAndView=new ModelAndView();
+//		try {
+//		modelAndView.setViewName("welcome");
+//		modelAndView.addObject("message", "Registered Succussfully! Login Now");
+//		}catch(Exception e) {
+//			modelAndView.addObject("message", "Registered Succussfully! Login Now");
+//			modelAndView.setViewName("register");
+//		}
+//		return modelAndView;
+//	}
+}

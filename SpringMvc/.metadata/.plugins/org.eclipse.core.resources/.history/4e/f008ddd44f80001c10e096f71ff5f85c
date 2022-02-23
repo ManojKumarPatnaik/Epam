@@ -1,0 +1,40 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<%@ taglib prefix="f" uri="http://www.springframework.org/tags/form"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Registration Page</title>
+</head>
+<body>
+	<f: form method="post" modelAttribute="masterUser">
+	Master User Name = <f:input path="Uname"
+			placeholder="Enter the Master User Name" required="true" />
+		<br>
+		<br>
+	Master Password = <f:input type="password" path="Upassword"
+			placeholder="Enter the Master Password" required="true" />
+		<br>
+		<br>
+		<input type="submit" value="Register">
+
+	</f: form>
+
+
+
+
+	<h2 style="color: red">succuss</h2>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+</html>
