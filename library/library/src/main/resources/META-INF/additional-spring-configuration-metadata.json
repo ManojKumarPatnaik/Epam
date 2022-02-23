@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientSecret'"
+  },
+  {
+    "name": "security.oauth2.client.accessTokenUri",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.accessTokenUri'"
+  },
+  {
+    "name": "security.oauth2.client.userAuthorizationUri",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.userAuthorizationUri'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  },
+  {
+    "name": "security.oauth2.client.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'security.oauth2.client.clientId'"
+  }
+]}
